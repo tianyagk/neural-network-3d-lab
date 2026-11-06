@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Neural Network 3D Lab",
+    "description": "把深度卷积/循环网络在三维空间中逐层展开，并以真实前向计算动画演示特征如何从输入变换到输出。"
+  }
+}

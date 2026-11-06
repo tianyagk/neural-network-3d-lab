@@ -1,0 +1,3 @@
+- insert:
+    - id: neural-network-3d-lab
+      name: '@local/neural-network-3d-lab'

@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Neural Network 3D Lab",
+    "description": "Opens deep convolutional and recurrent networks into an interactive 3D scene, layer by layer, and animates a real forward pass so you can watch features form from input to output."
+  }
+}
